@@ -9,8 +9,7 @@ for i in range(2,n):
   b=c;
   print(c)
 
-x=int(input("enter the value for fib"))
-print(x)
+fib(10)
   
   
   
